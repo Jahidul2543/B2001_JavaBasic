@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/B2001_JavaBasic.iml" filepath="$PROJECT_DIR$/B2001_JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/B2001_JavaBasic.iml" filepath="$PROJECT_DIR$/.idea/B2001_JavaBasic.iml" />
     </modules>
   </component>
 </project>
