@@ -38,16 +38,10 @@ public class ControlFlowDemo {
                         System.out.println("5. You have arrived in point B");
                     }
                 }
-
             }
-
         }
         else{
             System.out.println("Check your location");
         }
-
-
     }
-
-
 }
