@@ -7,6 +7,7 @@ public class IdentifyPalindrome {
 
     /**
      * Write Java Code To Identify A Number As Palindrome?
+     * Sudo code
      * */
 
     public static void main(String[] args) {
